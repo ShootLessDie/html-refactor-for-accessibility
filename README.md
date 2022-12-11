@@ -15,7 +15,7 @@ The main aspects of improvement were the following:
 
 - Included description for the website
 
-- 
+- Consolidated CSS classes
 
 ## Usage
 
